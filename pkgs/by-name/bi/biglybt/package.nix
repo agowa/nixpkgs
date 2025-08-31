@@ -1,6 +1,7 @@
 {
   lib,
   stdenv,
+  swt,
   fetchurl,
   jre,
   wrapGAppsHook3,
